@@ -15,18 +15,19 @@ The dataset consists of the following columns:
 * **Plaza Name:** Name of the toll plaza where the transaction occurred.
   
 **Usage:**
-Data Analysis: Use the dataset to perform various analyses such as:
 
-Transaction trends over time.
-Distribution of transaction types.
-Top toll plazas by transaction volume or amount.
-Average transaction amount.
-Balance trends.
-Visualization: Visualize the data using plots, charts, or dashboards to gain insights.
+1. Data Analysis: Use the dataset to perform various analyses such as:
+* Transaction trends over time.
+* Distribution of transaction types.
+* Top toll plazas by transaction volume or amount.
+* Average transaction amount.
+* Balance trends.
+  
+**2. Visualization:** Visualize the data using plots, charts, or dashboards to gain insights.
 
-Modeling: Develop predictive models to forecast future transactions or balances based on historical data.
+**3. Modeling:** Develop predictive models to forecast future transactions or balances based on historical data.
 
-Tools:
+##Tools:##
 This repository can be used with various data analysis and visualization tools such as Python libraries (Pandas, Matplotlib, Seaborn), R, Excel, or BI tools like Tableau or Power BI.
 
 Instructions:
