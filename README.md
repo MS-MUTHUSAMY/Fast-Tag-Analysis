@@ -42,3 +42,7 @@ This repository can be used with various data analysis and visualization tools s
 * **Modeling (Optional):** If applicable, develop predictive models based on the data.
 
 * **Documentation:** Document your findings, insights, and methodologies for future reference.
+
+## Links :
+
+* **LinkedIn Link :** https://www.linkedin.com/in/ms-mgr-agri/
