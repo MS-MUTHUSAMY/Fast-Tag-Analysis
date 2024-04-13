@@ -6,13 +6,13 @@ This repository contains tools for analyzing Fast Tag transactions. Fast Tag is 
 ## Dataset Columns:
 The dataset consists of the following columns:
 
-* Transaction Date: Date when the transaction occurred.
-* Transaction Ref No.: Reference number associated with the transaction.
-* Transaction Type: Type of transaction (e.g., toll payment, recharge).
-* Debit Amount (Rs.): Amount debited from the account in Indian Rupees (Rs.).
-* Credit Amount (Rs.): Amount credited to the account in Indian Rupees (Rs.).
-* Balance (Rs.): Remaining balance in the account after the transaction in Indian Rupees (Rs.).
-* Plaza Name: Name of the toll plaza where the transaction occurred.
+* **Transaction Date:** Date when the transaction occurred.
+* **Transaction Ref No:** Reference number associated with the transaction.
+* **Transaction Type:** Type of transaction (e.g., toll payment, recharge).
+* **Debit Amount (Rs.):** Amount debited from the account in Indian Rupees (Rs.).
+* **Credit Amount (Rs.):** Amount credited to the account in Indian Rupees (Rs.).
+* **Balance (Rs.):** Remaining balance in the account after the transaction in Indian Rupees (Rs.).
+* **Plaza Name:** Name of the toll plaza where the transaction occurred.
   
 **Usage:**
 Data Analysis: Use the dataset to perform various analyses such as:
