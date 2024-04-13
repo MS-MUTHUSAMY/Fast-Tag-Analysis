@@ -16,7 +16,7 @@ The dataset consists of the following columns:
   
 **Usage:**
 
-1. Data Analysis: Use the dataset to perform various analyses such as:
+**1. Data Analysis:** Use the dataset to perform various analyses such as:
 * Transaction trends over time.
 * Distribution of transaction types.
 * Top toll plazas by transaction volume or amount.
@@ -27,18 +27,18 @@ The dataset consists of the following columns:
 
 **3. Modeling:** Develop predictive models to forecast future transactions or balances based on historical data.
 
-##Tools:##
+ ## Tools: 
 This repository can be used with various data analysis and visualization tools such as Python libraries (Pandas, Matplotlib, Seaborn), R, Excel, or BI tools like Tableau or Power BI.
 
-Instructions:
-Data Import: Load the dataset into your preferred data analysis environment.
+## Instructions:
+* **Data Import:** Load the dataset into your preferred data analysis environment.
 
-Data Cleaning: Handle missing values, outliers, or inconsistencies in the data.
+* **Data Cleaning:** Handle missing values, outliers, or inconsistencies in the data.
 
-Exploratory Data Analysis (EDA): Explore the dataset to understand its characteristics and identify patterns.
+* **Exploratory Data Analysis (EDA):** Explore the dataset to understand its characteristics and identify patterns.
 
-Analysis and Visualization: Perform analysis and visualize insights using appropriate techniques.
+* **Analysis and Visualization:** Perform analysis and visualize insights using appropriate techniques.
 
-Modeling (Optional): If applicable, develop predictive models based on the data.
+* **Modeling (Optional):** If applicable, develop predictive models based on the data.
 
-Documentation: Document your findings, insights, and methodologies for future reference.
+* **Documentation:** Document your findings, insights, and methodologies for future reference.
