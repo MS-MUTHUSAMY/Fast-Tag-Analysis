@@ -14,7 +14,7 @@ The dataset consists of the following columns:
 * **Balance (Rs.):** Remaining balance in the account after the transaction in Indian Rupees (Rs.).
 * **Plaza Name:** Name of the toll plaza where the transaction occurred.
   
-**Usage:**
+## Usage:
 
 **1. Data Analysis:** Use the dataset to perform various analyses such as:
 * Transaction trends over time.
